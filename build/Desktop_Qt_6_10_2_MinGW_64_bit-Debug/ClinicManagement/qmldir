@@ -1,0 +1,6 @@
+module ClinicManagement
+typeinfo appClinicManagement.qmltypes
+prefer :/qt/qml/ClinicManagement/
+Main 1.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,10 @@
+# User-specific files
+*.pro.user
+
+# Build directories
+build-*/
+
+# Compiled output
+*.o
+*.obj
+*.exe

@@ -1,0 +1,16 @@
+--bare
+-I
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/ClinicManagement
+-I
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+D:/QT/6.10.2/mingw_64/qml
+--resource
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_ClinicManagement.qrc
+--resource
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appClinicManagement_raw_qml_0.qrc
+C:/Users/ASUS/Documents/ClinicManagement/Main.qml
+--json
+C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/appClinicManagement_qmllint.json

@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ae2eecd69c2af86a72c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ClinicManagement",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-23005a6cfbf58ee0b067.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-90f487054cb4fd26d3ec.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b3c33236ef60bca764d5.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-11c5f2a14c01e1ef09cc.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-97489d64ee9248620e18.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement-Debug-0e2b70f373ac1a91a58a.json",
+					"name" : "appClinicManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_autogen-Debug-69588fc287edac87030e.json",
+					"name" : "appClinicManagement_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_autogen_timestamp_deps-Debug-79a4cf9aff82af1332ff.json",
+					"name" : "appClinicManagement_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_copy_qml-Debug-56a44611dd39de8dfca0.json",
+					"name" : "appClinicManagement_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_copy_res-Debug-7244215f1e1d92531f2e.json",
+					"name" : "appClinicManagement_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_qmlimportscan-Debug-0bf691a4de00286c1ec5.json",
+					"name" : "appClinicManagement_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_qmllint-Debug-6d24cb91d9323935c8f6.json",
+					"name" : "appClinicManagement_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_qmllint_json-Debug-42d2a86c278c2d82fd6c.json",
+					"name" : "appClinicManagement_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_qmllint_module-Debug-f8a8a5f6628aff6b79c3.json",
+					"name" : "appClinicManagement_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClinicManagement_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClinicManagement_qmltyperegistration-Debug-917cf7ddf69438a6e228.json",
+					"name" : "appClinicManagement_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-33c1a8777eb30037a382.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appClinicManagement_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appClinicManagement_aotstats_target-Debug-4c9cf5a8a6cf95f0657b.json",
+					"name" : "module_appClinicManagement_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ASUS/Documents/ClinicManagement/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ASUS/Documents/ClinicManagement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

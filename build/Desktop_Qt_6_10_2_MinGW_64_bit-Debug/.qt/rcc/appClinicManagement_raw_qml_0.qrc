@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ClinicManagement/">
+    <file alias="Main.qml">C:/Users/ASUS/Documents/ClinicManagement/Main.qml</file>
+  </qresource>
+</RCC>
+
